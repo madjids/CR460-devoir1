@@ -1,6 +1,6 @@
 # Devoir 1
 ## Énoncé
-
+fork
 À partir de GitHub, vous copierez le [repository](https://github.com/matbilodeau/CR460-devoir1)
 et y appliquerez les modifications nécessaires afin de déployer l'infrastructure
 demandée sur GCP via Terraform.  
